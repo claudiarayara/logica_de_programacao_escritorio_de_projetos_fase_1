@@ -1,4 +1,5 @@
-# Disciplina: Lógica de Programação - Escritório de Projetos: Fase 01.
+# Disciplina: Lógica de Programação
+# Escritório de Projetos: Fase 01.
 Projeto realizado para o Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas: Full-Stack e Mobile.
 
 ## Introdução:
